@@ -90,7 +90,7 @@ fun Calculator(
                 CalculatorButton(
                     symbol = "7",
                     modifier = Modifier
-                        .background(Color.DarkGray)
+                        .background(Orange)
                         .aspectRatio(1f)
                         .weight(1f),
                     onClick = {
@@ -100,7 +100,7 @@ fun Calculator(
                 CalculatorButton(
                     symbol = "8",
                     modifier = Modifier
-                        .background(Color.DarkGray)
+                        .background(Orange)
                         .aspectRatio(1f)
                         .weight(1f),
                     onClick = {
@@ -110,7 +110,7 @@ fun Calculator(
                 CalculatorButton(
                     symbol = "9",
                     modifier = Modifier
-                        .background(Color.DarkGray)
+                        .background(Orange)
                         .aspectRatio(1f)
                         .weight(1f),
                     onClick = {
